@@ -16,6 +16,7 @@ Tensorflow 샘플 내에서 볼 수 있는 기본적인 데이터인 MNIST Datas
 
 #### 참고자료
 [Goodfellow2014](https://arxiv.org/pdf/1406.2661.pdf)
+<br>
 [Autoencoder구현](https://github.com/ExcelsiorCJH/Hands-On-ML/blob/master/Chap15-Autoencoders/Chap15-Autoencoders.ipynb)
 
 #### +) Pytorch에서 MNIST Dataset 불러오기
