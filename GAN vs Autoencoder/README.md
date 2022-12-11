@@ -11,8 +11,8 @@ Tensorflow 샘플 내에서 볼 수 있는 기본적인 데이터인 MNIST Datas
 
 #### [Source code] / GAN.ipnyb & Autoencoder.ipnyb
 
-- Simple GAN 구현 : Pytorch 를 통해 구현했하였다.
-- Autoencoder 구현 : Tensorflow를 통해 구현하였다.
+- Simple GAN 구현 : Pytorch 를 통해 구현했습니다.
+- Autoencoder 구현 : Tensorflow 를 통해 구현했습니다.
 
 #### 참고자료
 [Goodfellow2014](https://arxiv.org/pdf/1406.2661.pdf)
