@@ -14,7 +14,7 @@ Tensorflow 샘플 내에서 볼 수 있는 MNIST Dataset을 이용하여 각 모
 - Simple GAN 구현 : Pytorch 를 통해 구현했습니다.
 - Autoencoder 구현 : Tensorflow 를 통해 구현했습니다.
 
-#### 참고자료
+#### [참고자료]
 [Goodfellow2014](https://arxiv.org/pdf/1406.2661.pdf)
 <br>
 [Autoencoder구현](https://github.com/ExcelsiorCJH/Hands-On-ML/blob/master/Chap15-Autoencoders/Chap15-Autoencoders.ipynb)
