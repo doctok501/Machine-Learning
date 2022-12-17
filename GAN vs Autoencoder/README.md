@@ -18,6 +18,8 @@ GAN 과 오토인코더 모두 딥러닝을 이용하여 가상의 이미지를 
  [GAN](https://github.com/doctok501/Machine-Learning/blob/main/GAN%20vs%20Autoencoder/GAN.ipynb)에서 마지막 결과 이미지 확인 부분을 보면, 새로운 손글씨가 생성됨을 알 수 있습니다. 
 <br>
     그러나, [Autoencoder](https://github.com/doctok501/Machine-Learning/blob/main/GAN%20vs%20Autoencoder/Autoencoder.ipynb)에서 결론 부분을 보면, 위의 입력된 데이터를 이용하여 새로운 가상의 이미지를 만들어낸다는 것을 알 수 있습니다.
+<br>
+또한, 동일한 학습을 진행하였을때, GAN의 학습시간이 오토인코더의 학습시간보다 월등히 길어 오토인코더를 이용한 학습이 더 쉽다는 것을 알 수 있습니다.
 
 
 
