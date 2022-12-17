@@ -40,7 +40,6 @@ import torch.optim as optim
 import torchvision.utils as utils
 import torchvision.datasets as dsets
 import torchvision.transforms as transforms
-
 from torchvision import datasets
 import torchvision.transforms as transforms
 from torch.utils.data import DataLoader
