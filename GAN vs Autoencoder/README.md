@@ -7,7 +7,7 @@ Tensorflow 샘플 내에서 볼 수 있는 MNIST Dataset을 이용하여 각 모
 <br>
 4장 내 생성 모델인 GAN(generative adversarial network)과 6장 내 Autoencoder의 유사한 점과, 다른 점에 대하여 직접 구현해 보고 알아보았습니다.
 <br>
-#### 프로젝트 내용과 결과 설명
+#### [프로젝트 내용과 결과 설명]
 
 GAN 과 오토인코더 모두 딥러닝을 이용하여 가상의 이미지를 만듭니다.
 <br>
